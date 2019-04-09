@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\LINQUniversityManagerProject\LINQUniversityManagerProject\bin\Debug\LINQUniversityManagerProject.exe.config
+C:\Users\peema\source\repos\LINQUniversityManagerProject\LINQUniversityManagerProject\bin\Debug\LINQUniversityManagerProject.exe
+C:\Users\peema\source\repos\LINQUniversityManagerProject\LINQUniversityManagerProject\bin\Debug\LINQUniversityManagerProject.pdb
+C:\Users\peema\source\repos\LINQUniversityManagerProject\LINQUniversityManagerProject\obj\Debug\LINQUniversityManagerProject.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\LINQUniversityManagerProject\LINQUniversityManagerProject\obj\Debug\LINQUniversityManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\LINQUniversityManagerProject\LINQUniversityManagerProject\obj\Debug\LINQUniversityManagerProject.exe
+C:\Users\peema\source\repos\LINQUniversityManagerProject\LINQUniversityManagerProject\obj\Debug\LINQUniversityManagerProject.pdb
